@@ -1,4 +1,9 @@
-
+/*******************************************
+*    Fecha: 26 de febrero 2025             *
+*    Autor: Santiago Camargo               *
+*    Tema: Taller2 Tads biblioteca         *
+*    Estructuras de datos                  *
+*******************************************/
 #include <iostream>
 #include <fstream>
 #include <vector>
